@@ -1,0 +1,28 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+header {
+  margin: 10rem;
+  padding: 16px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: darkblue;
+  padding-bottom: 32px;
+}
+
+p {
+  color: gold;
+  display: inline-block;
+  background-color: rebeccapurple;
+}
+p:hover {
+  transform: skew(200deg);
+  transform: scaleX(240deg);
+}/*# sourceMappingURL=main.css.map */
